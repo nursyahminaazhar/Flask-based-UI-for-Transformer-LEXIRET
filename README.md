@@ -28,3 +28,16 @@ bash: python app.py
 
 Open in Browser:
 Visit http://127.0.0.1:5000/
+
+## License
+
+This project is licensed under a custom non-commercial license.
+
+- 📜 **Non-commercial use only**
+- 📖 **Citation required**
+- ✉️ **Permission required for reuse**
+- ⚠️ **No Warranty**
+
+For full license terms, see the [LICENSE](LICENSE) file.  
+For permission requests, contact: **nursyahminaazhar@gmail.com**
+
